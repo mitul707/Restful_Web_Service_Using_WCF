@@ -1,0 +1,5 @@
+C:\My Work\StudentPortalApp\StudentPortalService\obj\Debug\StudentPortalService.csprojResolveAssemblyReference.cache
+C:\My Work\StudentPortalApp\StudentPortalService\bin\StudentPortalService.dll
+C:\My Work\StudentPortalApp\StudentPortalService\bin\StudentPortalService.pdb
+C:\My Work\StudentPortalApp\StudentPortalService\obj\Debug\StudentPortalService.dll
+C:\My Work\StudentPortalApp\StudentPortalService\obj\Debug\StudentPortalService.pdb

@@ -1,0 +1,7 @@
+C:\My Work\StudentPortalApp\StudentPortalService\bin\StudentPortalService.dll
+C:\My Work\StudentPortalApp\StudentPortalService\bin\StudentPortalService.pdb
+C:\My Work\StudentPortalApp\StudentPortalService\obj\x86\Debug\StudentPortalService.dll
+C:\My Work\StudentPortalApp\StudentPortalService\obj\x86\Debug\StudentPortalService.pdb
+C:\My Work\StudentPortalApp\StudentPortalService\bin\Newtonsoft.Json.dll
+C:\My Work\StudentPortalApp\StudentPortalService\bin\Newtonsoft.Json.xml
+C:\My Work\StudentPortalApp\StudentPortalService\obj\x86\Debug\StudentPortalService.csprojResolveAssemblyReference.cache
